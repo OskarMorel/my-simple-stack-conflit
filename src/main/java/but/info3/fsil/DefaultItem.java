@@ -6,5 +6,5 @@ package but.info3.fsil;
 
 /* Modification du fichier pour générer un conflit */
 public class DefaultItem implements Item {
-    /* encore une autre modification */
+    // commentaire pour créer du conflit
 }

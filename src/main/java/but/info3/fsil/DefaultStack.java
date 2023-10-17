@@ -8,6 +8,8 @@ import java.util.List;
  * Basic implementation of SimpleStack.
  */
 // Commentaire pas très sympa qui va faire des conflits
+// commentaire des conflits pas cools
+    // la deuxieme mechante boubou pas cool
 public class DefaultStack implements SimpleStack {
 
     /**
