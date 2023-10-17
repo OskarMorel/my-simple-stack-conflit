@@ -7,6 +7,7 @@ import java.util.List;
 /**
  * Basic implementation of SimpleStack.
  */
+// Commentaire pas très sympa qui va faire des conflits
 public class DefaultStack implements SimpleStack {
 
     /**
