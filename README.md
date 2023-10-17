@@ -1,3 +1,4 @@
-# but3-my-simple-stack
+### Simple Stack Conflit
 
-Simple stack project.
+Entrainement à git avec le projet simple stack
+attention celui ci c'est pour la gestion de conflit
